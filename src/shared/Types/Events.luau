@@ -13,8 +13,8 @@ return {
     FARTHEST_FROM_BALL_LOSES = "FarthestFromBallLoses",
     SWORD_FIGHT = "SwordFight",
     SLAP_BATTLE = "SlapBattle",
-
     MUSICAL_CHAIRS = "MusicalChairs",
+    
     BLIND_SHOOTING = "BlindShooting",
     LASER_PARKOUR = "LaserParkour",
     JENGA_CANNON = "JengaCannon",
